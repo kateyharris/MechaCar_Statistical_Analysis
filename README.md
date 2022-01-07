@@ -23,7 +23,7 @@ In this challenge, you’ll do the following:
 
 
 - The slope of the linear model can not be considered to be zero. Note the upward path of the line on the graph.
-- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+- This linear model prediction of mpg of MechaCar prototypes is effectively accurate at 71.5% per the R-squared value.
 
 ## Summary Statistics on Suspension Coils
 ### total_summary<br> 
@@ -32,10 +32,10 @@ In this challenge, you’ll do the following:
 ### lot_summary<br>
 ![Snap228](https://user-images.githubusercontent.com/90797036/148481071-47f0116b-a829-4323-8bf5-e6bd5eba930d.png)<br>
 
-- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Current manufacturing data does meet this design specification for Lot1 and Lot 2, but lot 3 is in excess at 170.3.
 
 ## T-Tests on Suspension Coils
-briefly summarize your interpretation and findings for the t-test results<br>
+t-test results indicate no statistical difference<br>
 ![Snap234](https://user-images.githubusercontent.com/90797036/148490518-831ff6bf-8b97-4721-a152-ff2607ac8bb5.png)<br>
 
 ## Study Design: MechaCar vs Competition
