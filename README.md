@@ -35,11 +35,10 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 ## T-Tests on Suspension Coils
 t-test results indicate no statistical difference<br>
 ![Snap234](https://user-images.githubusercontent.com/90797036/148490518-831ff6bf-8b97-4721-a152-ff2607ac8bb5.png)<br>
+![Snap235](https://user-images.githubusercontent.com/90797036/148490715-d4077f83-e3ac-45dd-ab65-6d906ab5d8e5.png)<br>
 
 ## Study Design: MechaCar vs Competition
 This statistical study can quantify that the MechaCar performs equally against the competition. In the study design, the following metrics would be of interest to a consumer: cost, city or highway fuel efficiency, horse power, maintenance cost, and safety ratings.
-
-![Snap235](https://user-images.githubusercontent.com/90797036/148490715-d4077f83-e3ac-45dd-ab65-6d906ab5d8e5.png)<br>
 
 - What metric or metrics are you going to test?
 - What is the null hypothesis or alternative hypothesis?
