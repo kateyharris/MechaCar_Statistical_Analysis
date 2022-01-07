@@ -1,15 +1,20 @@
 # MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG
-write a short summary using a screenshot of the output from the linear regression, and address the following questions:
-![Snap227](https://user-images.githubusercontent.com/90797036/148480479-409bf6fa-0ba9-4cce-b42e-b4d23b0f3fef.png)
+### output from the linear regression<br>
+![Snap227](https://user-images.githubusercontent.com/90797036/148480479-409bf6fa-0ba9-4cce-b42e-b4d23b0f3fef.png)<br>
 
 
-- Vehicle Length and ground clearnce provided a non-random amount of variance to the mpg values in the dataset.
+- Vehicle Length and ground clearance provided a non-random amount of variance to the mpg values in the dataset.
 - The slope of the linear model can not be considered to be zero. Why or why not?
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Summary Statistics on Suspension Coils
-write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
+### total_summary<br> 
+![Snap229](https://user-images.githubusercontent.com/90797036/148481323-9799fa27-0f8b-4ebc-9860-141c99bb1b8e.png)<br> 
+
+### lot_summary<br>
+![Snap228](https://user-images.githubusercontent.com/90797036/148481071-47f0116b-a829-4323-8bf5-e6bd5eba930d.png)<br>
+
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 ## T-Tests on Suspension Coils
