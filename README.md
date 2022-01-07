@@ -5,7 +5,7 @@ write a short summary using a screenshot of the output from the linear regressio
 
 
 - Vehicle Length and ground clearnce provided a non-random amount of variance to the mpg values in the dataset.
-- Theslope of the linear model can not be considered to be zero. Why or why not?
+- The slope of the linear model can not be considered to be zero. Why or why not?
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Summary Statistics on Suspension Coils
