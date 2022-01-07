@@ -1,9 +1,11 @@
 # MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG
 write a short summary using a screenshot of the output from the linear regression, and address the following questions:
+![Snap227](https://user-images.githubusercontent.com/90797036/148480479-409bf6fa-0ba9-4cce-b42e-b4d23b0f3fef.png)
 
-- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-- Is the slope of the linear model considered to be zero? Why or why not?
+
+- Vehicle Length and ground clearnce provided a non-random amount of variance to the mpg values in the dataset.
+- Theslope of the linear model can not be considered to be zero. Why or why not?
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ## Summary Statistics on Suspension Coils
