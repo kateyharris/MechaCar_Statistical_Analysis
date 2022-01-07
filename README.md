@@ -37,7 +37,7 @@ t-test results indicate no statistical difference<br>
 ![Snap234](https://user-images.githubusercontent.com/90797036/148490518-831ff6bf-8b97-4721-a152-ff2607ac8bb5.png)<br>
 
 ## Study Design: MechaCar vs Competition
-This statistical study can quantify that the MechaCar performs poorly against the competition. In the study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+This statistical study can quantify that the MechaCar performs poorly against the competition. In the study design, the following metrics would be of interest to a consumer: cost, city or highway fuel efficiency, horse power, maintenance cost, and safety ratings.
 In your description, address the following questions:<br>
 ![Snap235](https://user-images.githubusercontent.com/90797036/148490715-d4077f83-e3ac-45dd-ab65-6d906ab5d8e5.png)<br>
 
