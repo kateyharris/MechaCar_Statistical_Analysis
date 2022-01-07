@@ -4,7 +4,10 @@
 ![Snap227](https://user-images.githubusercontent.com/90797036/148480479-409bf6fa-0ba9-4cce-b42e-b4d23b0f3fef.png)<br>
 
 
-- Vehicle Length and ground clearance provided a non-random amount of variance to the mpg values in the dataset.
+- Vehicle Length and ground clearance provided a non-random amount of variance to the mpg values in the dataset.<br>
+![Snap231](https://user-images.githubusercontent.com/90797036/148484060-08499028-7a54-4bbd-ae72-93dae513fd8f.png)![Snap232](https://user-images.githubusercontent.com/90797036/148484074-86ea6b0e-591a-4936-afae-d2a3b0c5dda8.png)<br>
+
+
 - The slope of the linear model can not be considered to be zero. Why or why not?
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
