@@ -49,11 +49,8 @@ This statistical study can quantify that the MechaCar performs comparably with t
   - maintenance cost
   - safety ratings
 - Hypothesis
-  - Generate a null hypothesis, its corresponding alternate hypothesis, and the significance level.
-  - Identify a statistical analysis to assess the truth of the null hypothesis.
-  - Compute the p-value using statistical analysis.
-  - Compare p-value to the significance level.
-  - Reject (or fail to reject) the null hypothesis and generate the conclusion.
+  - Null Hypothesis - If any of the identified metrics are favorable the cost of the vehicle will be higher. It would be favorable to have high fuel efficiency, high horse power, low maintenance costs, and the highest safety ratings.
+  - Alternative Hypothesis - The cost of the vehicle is not determined by favorable metrics such as better fuel efficiency, better horse power, maintenance cost, and safety ratings.
 - Hypothesis tests
   - Compute the p-value using statistical analysis.
   - Compare p-value to the significance level.
