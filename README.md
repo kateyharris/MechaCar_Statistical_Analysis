@@ -42,14 +42,18 @@ t-test results per lot have no statistical difference between population means, 
 ## Study Design: MechaCar vs Competition
 This statistical study can quantify that the MechaCar performs comparably with the competition. In the study design, the following metrics would be of interest to a consumer: cost, city or highway fuel efficiency, horse power, maintenance cost, and safety ratings.
 
-- Test Metrics Data
+- Test Metrics population Data
   - cost
   - city or highway fuel efficiency
   - horse power
   - maintenance cost
   - safety ratings
 - Hypothesis
-  - 
+  - Generate a null hypothesis, its corresponding alternate hypothesis, and the significance level.
+  - Identify a statistical analysis to assess the truth of the null hypothesis.
+  - Compute the p-value using statistical analysis.
+  - Compare p-value to the significance level.
+  - Reject (or fail to reject) the null hypothesis and generate the conclusion.
 - Hypothesis tests
-  -  
+  -  analysis of variance ANOVA test
 
