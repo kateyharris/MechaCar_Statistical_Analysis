@@ -35,6 +35,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 ## T-Tests on Suspension Coils
 t-test results on suspension coils indicate no statistical difference<br>
 ![Snap234](https://user-images.githubusercontent.com/90797036/148490518-831ff6bf-8b97-4721-a152-ff2607ac8bb5.png)<br>
+t-test results per lot have no statistical difference between population means, and pvalues are not low enough to reject the null hypothesis<br>
 ![Snap235](https://user-images.githubusercontent.com/90797036/148490715-d4077f83-e3ac-45dd-ab65-6d906ab5d8e5.png)<br>
 
 ## Study Design: MechaCar vs Competition
