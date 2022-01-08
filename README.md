@@ -40,9 +40,16 @@ t-test results per lot have no statistical difference between population means, 
 ![Snap235](https://user-images.githubusercontent.com/90797036/148490715-d4077f83-e3ac-45dd-ab65-6d906ab5d8e5.png)<br>
 
 ## Study Design: MechaCar vs Competition
-This statistical study can quantify that the MechaCar performs equally against the competition. In the study design, the following metrics would be of interest to a consumer: cost, city or highway fuel efficiency, horse power, maintenance cost, and safety ratings.
+This statistical study can quantify that the MechaCar performs comparably with the competition. In the study design, the following metrics would be of interest to a consumer: cost, city or highway fuel efficiency, horse power, maintenance cost, and safety ratings.
 
-- What metric or metrics are you going to test?
-- What is the null hypothesis or alternative hypothesis?
-- What statistical test would you use to test the hypothesis? And why?
-- What data is needed to run the statistical test?
+- Test Metrics Data
+  - cost
+  - city or highway fuel efficiency
+  - horse power
+  - maintenance cost
+  - safety ratings
+- Hypothesis
+  - 
+- Hypothesis tests
+  -  
+
