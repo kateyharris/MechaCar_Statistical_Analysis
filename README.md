@@ -55,5 +55,5 @@ This statistical study can quantify that the MechaCar performs comparably with t
   - Compute the p-value using statistical analysis.
   - Compare p-value to the significance level.
   - Reject (or fail to reject) the null hypothesis and generate the conclusion.
-  - Analysis of variance ANOVA test
+  - Two way Analysis of variance ANOVA test
 
